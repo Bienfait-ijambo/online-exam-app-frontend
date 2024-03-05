@@ -1,1 +1,3 @@
-# online-exam-app-frontend
+# Online-exam-app-frontend
+
+Vue + GraphQL + TypeScript
